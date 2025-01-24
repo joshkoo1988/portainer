@@ -15,6 +15,9 @@ A central place to find all my Portainer guides
 
 -[Portainer in LXC install Guide](https://github.com/joshkoo1988/portainer-ct-install)
 
+-[guacamole install in portainer](https://github.com/joshkoo1988/apache-guacamole)
+
+-[]()
 
 
 
