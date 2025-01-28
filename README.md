@@ -17,7 +17,7 @@ A central place to find all my Portainer guides
 
 -[guacamole install in portainer](https://github.com/joshkoo1988/apache-guacamole)
 
--[reverse proxy stoack in portainer](https://github.com/joshkoo1988/reverse-proxy-stack)
+-[reverse proxy stack in portainer](https://github.com/joshkoo1988/reverse-proxy-stack)
 
 
 
