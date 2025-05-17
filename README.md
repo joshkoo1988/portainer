@@ -12,4 +12,3 @@ A central place to find all my Portainer guides
 <h2>Guides</h2>
 
 -[Portainer VM Install Guide](https://github.com/joshkoo1988/portainer-install)
-
