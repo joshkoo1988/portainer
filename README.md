@@ -13,8 +13,6 @@ A central place to find all my Portainer guides
 
 -[Portainer VM Install Guide](https://github.com/joshkoo1988/portainer-install)
 
--[Portainer in LXC install Guide](https://github.com/joshkoo1988/portainer-ct-install)
-
 -[guacamole install](https://github.com/joshkoo1988/apache-guacamole)
 
 -[reverse proxy stack install](https://github.com/joshkoo1988/reverse-proxy-stack)
