@@ -13,8 +13,3 @@ A central place to find all my Portainer guides
 
 -[Portainer VM Install Guide](https://github.com/joshkoo1988/portainer-install)
 
--[guacamole install](https://github.com/joshkoo1988/apache-guacamole)
-
--[reverse proxy stack install](https://github.com/joshkoo1988/reverse-proxy-stack)
-
--[Authentik 2FA install](https://github.com/joshkoo1988/Authentik)
